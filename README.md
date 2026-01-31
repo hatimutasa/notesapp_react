@@ -25,7 +25,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone git@github.com:hatimutasa/notesapp_react.git
 cd your-repo-name
 Install dependencies:
 
